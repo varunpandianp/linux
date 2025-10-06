@@ -1,4 +1,5 @@
-Linux Topics for DevOps
+🧭 Linux Topics for DevOps
+
 No.	Topic	Key Focus
 1	Introduction to Linux	History, distributions, Linux kernel, shell, and terminal overview.
 2	File System Hierarchy	Understand /, /bin, /etc, /var, /usr, /home, /tmp — and their roles.
